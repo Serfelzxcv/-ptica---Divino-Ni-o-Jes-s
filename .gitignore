@@ -1,0 +1,16 @@
+# Base de datos local
+db_data/
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuración sensible si decides separarla luego
+.env
+
+# Cachés comunes
+wordpress/wp-content/cache/
+wordpress/wp-content/upgrade/
+wordpress/wp-content/backups/
+wordpress/wp-content/ai1wm-backups/
